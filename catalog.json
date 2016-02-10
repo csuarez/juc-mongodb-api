@@ -1,0 +1,101 @@
+
+{
+    "type": "videogame",
+    "title": "The Witness",
+    "stock": 1200,
+    "price": 36.90,
+    "platforms": ["PS4", "PC"],
+    "minimum_requirements": {
+        "ram": "4GB",
+        "cpi": "i7 3.5Ghz",
+        "hd": "20GB"
+    }
+}
+{
+    "type": "videogame",
+    "title": "Animal Crossing: New Leaf",
+    "stock": 300,
+    "price": 39.90,
+    "platforms": ["3DS"]
+}
+{
+    "type": "videogame",
+    "title": "Bloodborne",
+    "stock": 30,
+    "price": 69.90,
+    "platforms": ["PS4"]
+}
+{
+    "type": "videogame",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "stock": 250,
+    "price": 69.90,
+    "platforms": ["PS4", "PC", "XONE"],
+    "minimum_requirements": {
+        "ram": "8GB",
+        "cpi": "i7 3.5Ghz",
+        "hd": "40GB"
+    }
+}
+{
+    "type": "videogame",
+    "title": "Undertale",
+    "stock": 500,
+    "price": 11.00,
+    "platforms": ["PC"],
+    "minimum_requirements": {
+        "ram": "1GB",
+        "cpi": "i3 3.5Ghz",
+        "hd": "200MB"
+    }
+}
+{
+    "type": "book",
+    "title": "House of Leaves",
+    "stock": 850,
+    "price": 22.85,
+    "author": "Mark Z. Danielewski",
+    "pages": 736,
+    "isbn": "9780375410345",
+    "book_type": "hardcover"
+}
+{
+    "type": "book",
+    "title": "Choke",
+    "stock": 25,
+    "price": 9.90,
+    "author": "Chuck Palahniuk",
+    "pages": 234,
+    "isbn": "83098328903112",
+    "book_type": "hardcover"
+}
+{
+    "type": "book",
+    "title": "Sukkwan Island",
+    "stock": 300,
+    "price": 15.90,
+    "author": "David Vann",
+    "pages": 345,
+    "isbn": "0839021839021",
+    "book_type": "hardcover"
+}
+{
+    "type": "book",
+    "title": "Blood Meridian",
+    "stock": 215,
+    "price": 25,
+    "author": "Cormac McCarthy",
+    "pages": 736,
+    "isbn": "87482167364738",
+    "book_type": "hardcover"
+}
+{
+    "type": "book",
+    "title": "Norwegian Wood",
+    "stock": 1500,
+    "price": 12.85,
+    "author": "Haruki Murakami",
+    "pages": 254,
+    "isbn": "245353432432",
+    "book_type": "hardcover"
+}
