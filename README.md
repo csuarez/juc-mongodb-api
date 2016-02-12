@@ -12,7 +12,8 @@ API creada para las **II Jornadas Técnicas UEx – CIEMAT. Introducción a NoSQ
 
 2. Bajamos la plantilla
   ```sh
-  git clone https://github.com/csuarez/juc-mongodb-api-template.git
+  git clone https://github.com/csuarez/juc-mongodb-api.git
+  cd juc-mongodb-api
   ```
 
 3. Añadimos datos de prueba
