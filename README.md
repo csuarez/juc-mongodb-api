@@ -26,4 +26,4 @@ API creada para las **II Jornadas Técnicas UEx – CIEMAT. Introducción a NoSQ
   python api.py
   ```
 
-**NOTA**: El servicio se levanta en el puerto `443`.
+**NOTA**: El servicio se levanta en el puerto `5000`.
