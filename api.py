@@ -445,4 +445,4 @@ def all_exception_handler(error):
     return make_json_response(400, 'Invalid ID')
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=443)
+    app.run(host='0.0.0.0', port=5000)
